@@ -5,9 +5,10 @@ nav: true
 
 # Organizing committee
 
-* Prof. [Nicu Sebe](http://disi.unitn.it/~sebe/), University of Trento, Italy
-* Prof. [Graham Taylor](https://www.gwtaylor.ca/), University of Guelph, Canada
-* Prof. [Dubravko Culibrk](http://dculibrk.github.io), University of Novi Sad, Serbia
+* Prof. [Nicu Sebe](http://disi.unitn.it/~sebe/), University of Trento, Italy/Huawei Ireland
+Research Center
+* Prof. [Graham Taylor](https://www.gwtaylor.ca/), University of Guelph/[NextAI](https://www.nextcanada.com/next-ai), Canada
+* Prof. [Dubravko Culibrk](http://dculibrk.github.io), University of Novi Sad/[TandemLaunch](http://www.tandemlaunch.com/), Serbia
 
 ## Technical Program Committee 
 
