@@ -8,7 +8,7 @@ nav: true
 - July 1st - Workshop Paper Submission
 - August 1st - Acceptance Notification
 - August 11th - Camera-ready submission
-
+- September 12th - Workshop
 
 # Instructions
 
