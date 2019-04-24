@@ -32,7 +32,7 @@ baseurl: /bmvc-vaie
 # add google analytics if desired (optional)
 # if blank, it will be ignored
 # use JEKYLL_ENV=production on build command
-google_analytics: 
+google_analytics: UA-139040427-1
 
 # defaults (to simplify front matter)
 defaults:
