@@ -8,14 +8,12 @@ nav: true
 VAIE will be a half day workshop (13:00 – 17:00)
 
 * 13:00 Welcome
-  + Dubravko Culibrk
+  
 
-* 13:10 Keynote Talk
-  + Keynote speaker: Dr. Paul A. Kruszewski
+* 13:10 Keynote Talk: Dr. Paul A. Kruszewski
 
 * 14:00 Session 1: Oral Presentations
-  + Chair: tbd
-
+  
 * 15:20 Coffee and Networking Break
 
 * 15:45 Session 2: Posters and Demos
