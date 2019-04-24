@@ -22,6 +22,8 @@ As such, the topics of interest include, but are not limited:
 
 In addition to the classical BMVC paper format we plan to solicit submissions in the form of a short position paper or industrial case study that could be as short as three pages without references.
 
+The worksop will take place on September 12th, 2019 at the [University of Cardiff](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building).
+
 ## Important Dates (all in 2019)
 - July 1st - Workshop Paper Submission
 - August 1st - Acceptance Notification
@@ -35,8 +37,6 @@ In addition to the classical BMVC paper format we plan to solicit submissions in
 {% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | absolute_url }}){% endif %}
 {% endfor %}
 </div>
-
-The worksop will take place on September 12th, 2019 at the [University of Cardiff](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building).
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
