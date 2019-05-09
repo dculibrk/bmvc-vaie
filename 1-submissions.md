@@ -14,8 +14,8 @@ nav: true
 
 We use the same formatting template as BMVC 2019 and we seek two kinds of submissions:
 
-- Full papers of new contributions (8 pages NOT including references).
-- Short position papers or industrial case studies (4 pages NOT including references).
+- Full papers of new contributions (maximum 8 pages NOT including references).
+- Short position papers or industrial case studies (maximum 4 pages NOT including references).
 
 Submissions must be in PDF format. 
 
