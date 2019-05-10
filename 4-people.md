@@ -21,7 +21,7 @@ Research Center
 * Negar	Rostamzadeh, [Element AI](https://www.elementai.com/)
 * Vladimir Atanasovski, ["Ss Cyril and Methodius" University](http://en.feit.ukim.edu.mk/faculty/academic-staff/vladimir-atanasovski) / [INNOFEIT](http://inno.feit.ukim.edu.mk/)
 * Ben Herbst, [Stellebosch University](http://appliedmaths.sun.ac.za/~herbst/) / [Praelexis](http://praelexis.com/)
-* Milan	Mirkovic, [University of Novi Sad](http://www.uns.ac.rs/index.php/en/) / Koncept DK
+* Milan	Mirkovic, [University of Novi Sad](http://www.uns.ac.rs/index.php/en/) / [Kapacity A/S](www.kapacity.dk)
 * Srdjan Vukmirovic, [University of Novi Sad](http://www.uns.ac.rs/index.php/en/)/[NSWD_](https://nswebdevelopment.com/)
 * McElory Hoffman, [Praelexis](http://praelexis.com/)
 * Hristijan	Gjoreski, [University of Sussex](https://dis.ijs.si/hristijan/)
