@@ -4,7 +4,7 @@ title: Home
 
 # BMVC Workshop on Visual Artificial Intelligence and Entrepreneurship
 
-{% include figure.html img="8.jpg" alt="VAIE banner" caption="@BMVC" width="90%" %}
+{% include figure.html img="8.jpg" alt="VAIE banner" caption="" width="100%" %}
 
 The [British Machine Vision Conference (BMVC)](https://bmvc2019.org/) is the British Machine Vision Association (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.
 
