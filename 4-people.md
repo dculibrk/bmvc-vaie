@@ -12,7 +12,7 @@ Research Center
 
 ## Technical Program Committee (in progress)
 
-* Sek Chai, [SRI International](https://www.sri.com/about/people/sek-chai)
+* Sek Chai, [Latent AI](https://www.latentai.com)
 * Alexander	Wong, [University of Waterloo](https://uwaterloo.ca/systems-design-engineering/profile/a28wong) / [Darwin AI](https://darwinai.ca/research.html)
 * Vittorio Murino, [University of Verona](http://profs.sci.univr.it/~swan/) / [eVS](http://www.embeddedvisionsystems.it/)
 * Felix	Heide, [Princeton University](http://www.cs.princeton.edu/~fheide/) / [Algolux](https://algolux.com/)
@@ -27,3 +27,9 @@ Research Center
 * Hristijan	Gjoreski, ["Ss Cyril and Methodius" University](https://dis.ijs.si/hristijan/)
 * Ehsan Saboori, [Deeplite](https://www.deeplite.ai/)
 * Tomislav Kartalov, ["Ss Cyril and Methodius" University](http://en.feit.ukim.edu.mk/faculty/academic-staff/tomislav-kartalov)
+* George Williams, [GSI Technology](https://www.linkedin.com/in/george-williams-8130902/)
+* Parthipan	Siva, [SportLogiq](https://sportlogiq.com/en/)
+* Justin	Eichel, [Miovision](https://miovision.com/)
+* Radu	Laurentiu-Vieriu, [Siemens A.G.](https://www.linkedin.com/in/radu-laurentiu-vieriu-9290a967/)
+* Moin	Nabi, [SAP](https://moinnabi.github.io/)
+
