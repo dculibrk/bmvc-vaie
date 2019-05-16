@@ -32,4 +32,5 @@ Research Center
 * Justin	Eichel, [Miovision](https://miovision.com/)
 * Radu	Laurentiu-Vieriu, [Siemens A.G.](https://www.linkedin.com/in/radu-laurentiu-vieriu-9290a967/)
 * Moin	Nabi, [SAP](https://moinnabi.github.io/)
+* Dimosthenis Karatzas, [Universitat Autónoma de Barcelona/CVC](http://www.cvc.uab.es/~dimos/)
 
