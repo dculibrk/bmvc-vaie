@@ -10,7 +10,7 @@ Research Center
 * [Graham Taylor](https://www.gwtaylor.ca/), University of Guelph/[NextAI](https://www.nextcanada.com/next-ai), Canada
 * [Dubravko Culibrk](http://dculibrk.github.io), University of Novi Sad/[TandemLaunch](http://www.tandemlaunch.com/), Canada
 
-## Technical Program Committee (in progress)
+## Technical Program Committee
 
 * Sek Chai, [Latent AI](https://www.latentai.com)
 * Alexander	Wong, [University of Waterloo](https://uwaterloo.ca/systems-design-engineering/profile/a28wong) / [Darwin AI](https://darwinai.ca/research.html)
@@ -33,4 +33,5 @@ Research Center
 * Radu	Laurentiu-Vieriu, [Siemens A.G.](https://www.linkedin.com/in/radu-laurentiu-vieriu-9290a967/)
 * Moin	Nabi, [SAP](https://moinnabi.github.io/)
 * Dimosthenis Karatzas, [Universitat Autónoma de Barcelona/CVC](http://www.cvc.uab.es/~dimos/)
+* Vladimir Nedovic, [Flavorspace](http://flavourspace.com/)/[Rockstart AI](https://www.rockstart.com/emerging-tech/ai/)
 
