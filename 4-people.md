@@ -29,9 +29,11 @@ Research Center
 * Tomislav Kartalov, ["Ss Cyril and Methodius" University](http://en.feit.ukim.edu.mk/faculty/academic-staff/tomislav-kartalov)
 * George Williams, [GSI Technology](https://www.linkedin.com/in/george-williams-8130902/)
 * Parthipan	Siva, [SportLogiq](https://sportlogiq.com/en/)
+* Mehrsan Javan, [SportLogiq](https://sportlogiq.com/en/)
 * Justin	Eichel, [Miovision](https://miovision.com/)
 * Radu	Laurentiu-Vieriu, [Siemens A.G.](https://www.linkedin.com/in/radu-laurentiu-vieriu-9290a967/)
 * Moin	Nabi, [SAP](https://moinnabi.github.io/)
 * Dimosthenis Karatzas, [Universitat Autónoma de Barcelona/CVC](http://www.cvc.uab.es/~dimos/)
 * Vladimir Nedovic, [Flavorspace](http://flavourspace.com/)/[Rockstart AI](https://www.rockstart.com/emerging-tech/ai/)
+
 
