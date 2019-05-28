@@ -35,5 +35,6 @@ Research Center
 * Moin	Nabi, [SAP](https://moinnabi.github.io/)
 * Dimosthenis Karatzas, [Universitat Autónoma de Barcelona/CVC](http://www.cvc.uab.es/~dimos/)
 * Vladimir Nedovic, [Flavorspace](http://flavourspace.com/)/[Rockstart AI](https://www.rockstart.com/emerging-tech/ai/)
+* Branislav Gerazov, ["Ss Cyril and Methodius" University](http://en.feit.ukim.edu.mk/faculty/academic-staff/branislav-gerazov)
 
 
