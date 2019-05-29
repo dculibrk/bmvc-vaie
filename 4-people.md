@@ -24,6 +24,7 @@ Research Center
 * Milan	Mirkovic, [University of Novi Sad](http://www.uns.ac.rs/index.php/en/) / [Kapacity A/S](www.kapacity.dk)
 * Srdjan Vukmirovic, [University of Novi Sad](http://www.uns.ac.rs/index.php/en/)/[NSWD_](https://nswebdevelopment.com/)
 * McElory Hoffman, [Praelexis](http://praelexis.com/)
+* Daniel Socek, [Intel®](http://socek.net)
 * Hristijan	Gjoreski, ["Ss Cyril and Methodius" University](https://dis.ijs.si/hristijan/)
 * Ehsan Saboori, [Deeplite](https://www.deeplite.ai/)
 * Tomislav Kartalov, ["Ss Cyril and Methodius" University](http://en.feit.ukim.edu.mk/faculty/academic-staff/tomislav-kartalov)
