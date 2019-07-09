@@ -5,7 +5,7 @@ nav: true
 
 # Important Dates (all in 2019)
 
-- <span style="color:red">July 8th (EXTENDED)</span> - Workshop Paper Submission
+- <span style="color:red">July 15th (EXTENDED)</span> - Workshop Paper Submission
 - August 1st - Acceptance Notification
 - August 11th - Camera-ready submission
 - September 12th - Workshop
