@@ -21,7 +21,7 @@ In addition to the classical BMVC paper format we plan to solicit submissions in
 The workshop will take place on September 12th, 2019 at the [University of Cardiff](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building).
 
 ## Important Dates (all in 2019)
-- <span style="color:red">July 8th (EXTENDED)</span> - Workshop Paper Submission
+- <span style="color:red">July 15th (EXTENDED)</span> - Workshop Paper Submission
 - August 1st - Acceptance Notification
 - August 11th - Camera-ready submission
 - September 12th - Workshop
