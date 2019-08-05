@@ -5,10 +5,14 @@ nav: true
 
 # Important Dates (all in 2019)
 
-- <span style="color:red">July 15th (EXTENDED)</span> - Workshop Paper Submission
+- <span style="color:red">September 1st </span> - Demo Proposals Submission
+- July 15th (EXTENDED) - Workshop Paper Submission
 - August 2nd - Acceptance Notification
 - August 11th - Camera-ready submission
 - September 12th - Workshop
+
+# Instructions for Demo Proposals
+Please send an e-mail with a short (no more than half a page) description of the proposed demo to  dubravko.culibrk@tandemlaunch.com .
 
 # Instructions
 
