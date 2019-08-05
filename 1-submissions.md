@@ -12,7 +12,7 @@ nav: true
 - September 12th - Workshop
 
 # Instructions for Demo Proposals
-Please send an e-mail with a short (no more than half a page) description of the proposed demo to  [mailto://dubravko.culibrk@tandemlaunch.com](dubravko.culibrk@tandemlaunch.com).
+Please send an e-mail with a short (no more than half a page) description of the proposed demo to  [dubravko.culibrk@tandemlaunch.com](mailto://dubravko.culibrk@tandemlaunch.com).
 
 # Instructions
 
