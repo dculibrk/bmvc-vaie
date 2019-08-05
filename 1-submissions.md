@@ -5,7 +5,7 @@ nav: true
 
 # Important Dates (all in 2019)
 
-- <span style="color:red">September 1st </span> - Demo Proposals Submission
+- <span style="color:red">August 25th </span> - Demo Proposals Submission
 - July 15th (EXTENDED) - Workshop Paper Submission
 - August 2nd - Acceptance Notification
 - August 11th - Camera-ready submission
