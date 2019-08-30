@@ -14,21 +14,21 @@ VAIE will be a half day workshop (14:00 – 18:00)
 * 15:15 Session 1: Oral Presentations (20+10 mins)
 
 **A Stacked Dense Denoising-Segmentation Network for low-projection CT Volumes**
-Dimitrios Bellos (University of Nottingham), Andrew French (University of Nottingham), Mark Basham (Diamond Light Source Ltd),Tony Pridmore (University of Nottingham)
+by Dimitrios Bellos (University of Nottingham), Andrew French (University of Nottingham), Mark Basham (Diamond Light Source Ltd),Tony Pridmore (University of Nottingham)
 
 * 15:45 Coffee and Networking Break/BMVC Poster Session
 
 * 16:15 Session 2: Oral Presentations (15+5 mins)
 
 **Human-Machine Collaborative Design for Accelerated Design of Compact Deep Neural Networks for Autonomous Driving** 
-Mohammad Javad Shafiee (University of Waterloo), Mirko Nentwing ( Audi Electronics Venture GmbH), Yohannes Kassahun (Audi Electronics Venture GmbH), Francis Li (DarwinAI), Stanislav Bochkarev (DarwinAI), Akif Kamal (DarwinAI), David Dolson (DarwinAI), Secil Altintas (DarwinAI), Arif Virani (DarwinAI), Alexander Wong (University of Waterloo)
+by Mohammad Javad Shafiee (University of Waterloo), Mirko Nentwing ( Audi Electronics Venture GmbH), Yohannes Kassahun (Audi Electronics Venture GmbH), Francis Li (DarwinAI), Stanislav Bochkarev (DarwinAI), Akif Kamal (DarwinAI), David Dolson (DarwinAI), Secil Altintas (DarwinAI), Arif Virani (DarwinAI), Alexander Wong (University of Waterloo)
 
 **Automatic Structured Text Reading for License Plates and Utility Meters**
-Marçal Rusiñol (Computer Vision Center, UAB), Lluis Gomez (Universitat Autónoma de Barcelona), Adriaan Landman (AllRead MLT), 
+by Marçal Rusiñol (Computer Vision Center, UAB), Lluis Gomez (Universitat Autónoma de Barcelona), Adriaan Landman (AllRead MLT), 
 Miguel Silva-Constenla (AllRead MLT), Dimosthenis Karatzas (Computer Vision Centre)
 
 **Identifying Individual Dogs in Social Media Images**
-Djordje Batic and Dubravko Culibrk (University of Novi Sad)
+by Djordje Batic and Dubravko Culibrk (University of Novi Sad)
 
 * 17:00 Session 1: Demos (15 mins)
 
