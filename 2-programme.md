@@ -32,9 +32,9 @@ by Djordje Batic and Dubravko Culibrk (University of Novi Sad)
 
 * 17:00 Session 1: Demos (15 mins)
 
-**DarwinAI**
+[**DarwinAI**](https://darwinai.ca/)
 
-**WRNCH**
+[**WRNCH**](https://wrnch.ai/)
 
 * 17:30 Closing remarks and planning for next year
 
