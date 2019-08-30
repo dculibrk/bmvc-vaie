@@ -20,7 +20,7 @@ As such, the topics of interest include, but are not limited to:
 
 In addition to the classical BMVC paper format we plan to solicit submissions in the form of a short position paper or industrial case study of maximum 4 pages not including references.
 
-The workshop will take place on September 12th, 2019 at the [University of Cardiff](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building).
+The workshop will take place on September 12th, 2019 at the [University of Cardiff](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building), **room C0.07**.
 
 ## Important Dates
 - <span style="color:red">August 25th</span> - Demo Proposal Submission
