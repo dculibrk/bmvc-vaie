@@ -28,7 +28,7 @@ Marçal Rusiñol (Computer Vision Center, UAB), Lluis Gomez (Universitat Autóno
 Miguel Silva-Constenla (AllRead MLT), Dimosthenis Karatzas (Computer Vision Centre)
 
 **Identifying Individual Dogs in Social Media Images**
-Djordje Batic and Dubravko Culibrk (niversity of Novi Sad)
+Djordje Batic and Dubravko Culibrk (University of Novi Sad)
 
 * 17:00 Session 1: Demos (15 mins)
 
