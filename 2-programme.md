@@ -16,7 +16,7 @@ VAIE will be a half day workshop (14:00 – 18:00)
 **A Stacked Dense Denoising-Segmentation Network for low-projection CT Volumes**
 Dimitrios Bellos (University of Nottingham), Andrew French (University of Nottingham), Mark Basham (Diamond Light Source Ltd),Tony Pridmore (University of Nottingham)
 
-* 15:45 Coffee and Networking Break
+* 15:45 Coffee and Networking Break/BMVC Poster Session
 
 * 16:15 Session 2: Oral Presentations (15+5 mins)
 
