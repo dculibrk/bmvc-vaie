@@ -3,7 +3,7 @@ title: BMVC Workshop on Visual Artificial Intelligence and Entrepreneurship
 ---
 {% include figure.html img="8.jpg" alt="VAIE banner" caption="" width="100%" %}
 
-<span style="color:red">Please note that we are still accepting demo proposals. See how to submit a proposal on the "Submission" page.</span> 
+<span style="color:red">The sumbissions are closed. We hope to see as many of you as possible at the workshop!</span> 
 
 The [British Machine Vision Conference (BMVC)](https://bmvc2019.org/) is the British Machine Vision Association (BMVA) annual conference on machine vision, image processing, and pattern recognition. It is one of the major international conferences on computer vision and related areas held in the UK. With increasing popularity and quality, it has established itself as a prestigious event on the vision calendar.
 
@@ -27,7 +27,7 @@ The workshop will take place on September 12th, 2019 at the [University of Cardi
 - July 15th - Workshop Paper Submission
 - August 1st - Acceptance Notification
 - August 11th - Camera-ready submission
-- September 12th - Workshop
+- September 12th - Workshop (room C0.07)
 
 <div class="toc" markdown="1">
 ## Learn more:
